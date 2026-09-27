@@ -16,13 +16,18 @@ Langkah 1: Import Libarary & Components
 
 1. Buka File App.js pada folder projek ptmn2
 2. Import Library dan Core Component yang dibutuhkan
+
 3. Konfirmasi bukti
+   ![alt text](image-4.png)
 
 Langkah 2: Menyiapkan Array Objek untuk menampung data
 
 1. Membuat Array Objek bernama PROFILE untuk menampung data Profile
-2. Konfirmasi bukti
 
-Lanjutkan sampai selesai....
+2. Konfirmasi bukti
+   ![alt text](image-5.png)
+
+## Lanjutkan sampai selesai....
 
 Hasil Akhir
+![alt text](image-3.png)
