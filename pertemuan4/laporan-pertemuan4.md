@@ -46,7 +46,7 @@ Setelah mengikuti praktikum ini, mahasiswa diharapkan mampu:
 
    ![alt text](image-3.png)
 
-   ![alt text](1.gif)
+   ![alt text](main.gif)
 
 ### TUGAS PRAKTIKUM (Diskusi Kelompok)
 
